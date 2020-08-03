@@ -10,4 +10,4 @@ Features:
 - Single/repetitive trigger
 - Click & drag mouse on screen to measure
 - D2 outputs 1KHz square wave (100Hz in version 1)
-- Version 2 sampling rate increased x10
+
