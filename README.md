@@ -1,8 +1,8 @@
 # Scopino
-Arduino Oscilloscope
-Oscilloscope application for Arduino & .NET.
-Includes full source code.
-Version 2 features sampling rate x10.
+## Arduino Oscilloscope
+## Oscilloscope application for Arduino & .NET.
+### Includes full source code.
+### Version 2 features sampling rate x10.
 
 Features:
 - Sampling 2 analog channels
