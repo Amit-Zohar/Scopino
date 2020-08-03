@@ -1,0 +1,2 @@
+# Scopino
+Arduino Oscilloscope
