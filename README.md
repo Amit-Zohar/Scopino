@@ -2,7 +2,7 @@
 ## Arduino Oscilloscope
 ### Oscilloscope application for Arduino & .NET.
 
-Features:
+#### Features
 - Sampling 2 analog channels
 - Volt/Div = 0.1÷0.5V (input voltage 0÷5V)
 - Time/Div = 1÷100msec (max. sampling rate 50KHz)
@@ -11,9 +11,9 @@ Features:
 - Click & drag mouse on screen to measure
 - D2 outputs 1KHz square wave (100Hz in version 1)
 
-Instructions:
-- Uncheck ___ in file Scope\Form1.resx
+#### Instructions
 - Connect Arduino to the USB
+- Uncheck "Unblock" checkbox in file Scope\Form1.resx properties (general tab)
 - Compile and run the project
 - Select the Arduino COM port
 
