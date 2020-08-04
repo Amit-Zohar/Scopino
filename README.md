@@ -20,3 +20,5 @@
 - Channel 1 = Arduino A0 (analog 0 input)
 - Channel 2 = Arduino A1 (analog 1 input)
 - D2 outputs 1KHz 0÷5V square wave (can be connected to A0/A1)
+
+[All my Arduino projects with hardware](https://sourceforge.net/u/azo747/profile/)
