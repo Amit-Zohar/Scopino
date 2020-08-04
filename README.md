@@ -11,7 +11,7 @@
 - D2 outputs 1KHz square wave (100Hz in version 1)
 
 #### Instructions
-- Connect Arduino to the USB
+- Connect Arduino to PC USB
 - Uncheck "Unblock" checkbox in file Scope\Form1.resx properties (general tab)
 - Compile and run the project
 - Select the Arduino COM port
